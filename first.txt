@@ -1,4 +1,9 @@
+<<<<<<< HEAD
            # 第一周 eoiou
+=======
+<<<<<<< HEAD
+           # hahaha第一周 hahaha
+>>>>>>> 00c3527607bea84dcebe6d70ede01fcab2554a24
 
 > Git、MD、HTML5
 
