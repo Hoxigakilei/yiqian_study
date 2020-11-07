@@ -1,0 +1,33 @@
+# 第一周
+
+> Git、MD、HTML5
+
+### Git ###
+
++ 掌握 Git 的基本概念
++ 掌握其主要功能
+  + 版本控制
+  + 多人协作
+
++ 掌握主要的 Git 命令
+  + add、commit、reset、tag
+  + push、pull、fetch
+  + branch、checkout、merge、rebase
+
+### 掌握 MD 基本语法 ###
+
++ 详情参见 [菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html)
+
++ 编辑器推荐 [Typora](https://typora.io/)
+
+### 掌握 HTML5 基本语法
+
++ 详情同样参见 [菜鸟教程](https://www.runoob.com/html/html-tutorial.html)
+
+### 作业（任务）
+
+1. 学习 Git 使用，了解常用命令
+
+2. 学习 MD 语法，并写一篇关于 Git 的文章
+3. 注册一个 Github 账号，使用 Git 将文章推上去
+4. 在除 master 之外的分支上撰写一篇 html5 学习笔记
