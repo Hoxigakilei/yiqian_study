@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-           # hahaha第一周 hahaha
-=======
-           # 第一周 uuhhjjk
->>>>>>> 7754e16f652dfdf7cd9211beaa38b7e5bd832c12
-
+           # 第一周 卢本伟nb
 > Git、MD、HTML5
 
 ### Git ###
